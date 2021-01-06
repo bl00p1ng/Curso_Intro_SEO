@@ -22,20 +22,78 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   El SEO no se trata de tecnicismos o de reglas absolutas, se trata de crear contenido de calidad que sea muy fácil de consumir.
   
-  - ### Clase 2. Qué es SEO
+- ### Clase 2. Qué es SEO
+
+  #### SEO: Search Engine Optimization
+
+  En español *Optimización para motores de búsqueda*.
+
+  Es un conjunto de técnicas que se pueden aplicar al contenido y al código de un sitio web, para lograr los primeros lugares en los resultados de los motores de búsqueda.
+
+  Las **técnicas de SEO** pueden variar dependiendo del tipo de contenido, no tiene sentido aplicar todas las técnicas a un sólo contenido o sitio web, por lo que es importante saber que técnicas aplicar según el contenido/sitio web.
+
+  Si bien el propósito del SEO es llegar a los primeros resultados de búsqueda, hay un "fin superior" del SEO y es brindarle la mejor experiencia a los usuarios. Esos 2 propósitos están intrínsecamente relacionados, pues si se le proporciona una buena experiencia y contenido a los usuarios se conseguirá como efecto colateral conseguir y conservar las primeras posiciones en los resultados de búsqueda.
+
+  En resumen, para crear contenido de calidad se necesita:
+
+  - **Escribir bien:** pensar en quién va a leer el contenido.
+  - **Recursividad y concreción:** procesos y estructuras que funcionan.
+  - **Conocer las técnicas:** optimizar con sentido.
+
+- ### Glosario de SEO
+
+  **SEO**: *Search Engine Optimization*.  Optimización para motores de búsqueda. Es un conjunto de técnicas que  puedes aplicar al contenido y al código de tu sitio web, para lograr los primeros lugares en los resultados de los motores de búsqueda.
+
+  **User Experience**: Factores relativos a la interacción que tienen las personas que utilizan una plataforma (página web,  aplicación, cualquier tipo de interfaz) y que determinan si la  experiencia va a ser positiva (fácil, ágil, intuitiva) o negativa  (lenta, difícil de entender).
+
+  **SERP**: *Search Engine Result Page*. Página de resultados de búsqueda.
+
+  **Ranking**: Posicionamiento. Cuando hablamos de  “rankear” nos referimos a posicionarnos mejor, a lograr los primeros  puestos en los resultados de búsqueda.
+
+  **Indexación**: El proceso que hacen los motores de  búsqueda para agregar un sitio web y sus páginas a su índice, con el fin de que este pueda ser mostrado cuando se haga una consulta determinada.
+
+  **Keyword Research**: Investigación de palabras clave.  Es una estrategia de SEO que consiste en buscar las palabras más  relevantes que deberíamos incluir en nuestro sitio web para  posicionarnos mejor.
+
+  **Relevancia**: Uno de los factores de posicionamiento  que determina si el contenido de un sitio web responde a las necesidades de las consultas que hacen los usuarios para llegar a él.
+
+  **Link building**: Construcción de links. Es una  estrategia de SEO que consiste en conseguir links de otros sitios web  con alta autoridad, que enlacen a nuestro sitio.
+
+  **Autoridad**: Uno de los factores de posicionamiento  que determina la confianza y credibilidad que tiene un dominio o página a partir de la cantidad de links externos que lo enlacen.
+
+  **Bounce rate**: Porcentaje de rebote. La relación entre el tráfico (cantidad de visitantes que recibe una página web en un  tiempo determinado) y las veces que el sitio es abandonado en pocos  segundos.
+
+  **Keywords**: Palabras clave. Son las palabras que se  utilizan para crear contenidos relevantes dentro de un sitio web para  lograr un mejor posicionamiento.
+
+  **Responsive Design**: Una combinación de técnicas que permiten diseñar sitios web que se adapten a la mayor cantidad de dispositivos posible.
+
+  **Above the fold**: Arriba del pliegue. Todo lo que es posible ver en un sitio web antes de hacer scroll (desplazarse con el cursor).
+
+  **CTA**: *Call to action*. Llamado a la acción. Una palabra o frase que le indica al usuario cuál es la acción que se espera de su parte.
+
+  **Conversión**: Cuando un usuario completa una acción deseada. Ej: registro, descarga, compra, comentario, etc.
+
+  **Volúmenes de búsqueda**: Cantidad de veces que se utiliza una palabra en consultas que se hacen en los motores de búsqueda, en un tiempo determinado.
+
+  **Porcentaje de conversión** (en Keyword Research):  Relación entre la cantidad de veces que se utiliza una palabra en una  búsqueda con respecto a las veces que se hace click en resultados con  dicha palabra.
+
+  **Long tail**: Términos muy específicos. Palabras clave  de nicho que pueden no tener altos volúmenes de búsqueda pero si buen  porcentaje de conversión.
+
+  **Short tail**: Términos muy generales. Palabras que tienen altos volúmenes de búsqueda pero bajo porcentaje de conversión por ser genéricos.
+
+  **Brainstorm**: Lluvia de ideas. Técnica de lanzar todas las ideas posibles, sin juzgarlas, para resolver una pregunta o un problema.
+
+  **Benchmark**: Análisis de la competencia. Revisión e investigación de estrategias o acciones que están empleando competidores potenciales.
+
+  **Datos estructurados**: Información que sirve para  darle contexto a los motores de búsqueda sobre el tipo de contenido que  se ofrece en un sitio web. Se puede agregar a partir de etiquetas HTML.
+
+  **Publicaciones enriquecidas**: Publicaciones que se  muestran en redes sociales con formatos diferentes al estándar y que se  configuran desde el código del sitio web del que viene el contenido.
+
+  **CTR:** *(Click Through Rate)* Es el número de clics que obtiene un enlace respecto a su número de  impresiones. Siempre se calcula en porcentaje, y es una métrica que se  utiliza normalmente para medir el impacto que ha tenido una campaña  digital.
+
+  **Etiquetas canonical:** son una forma de decirle al motor de búsqueda que una URL especificada es la copia maestra de una página. Permiten especificar la URL canónica para una página.
+
+  **URLs canónicas**:  es la URL de la página que Google considera más representativa de un conjunto de páginas duplicadas en tu sitio web.
+
   
-    #### SEO: Search Engine Optimization
+
   
-    En español *Optimización para motores de búsqueda*.
-  
-    Es un conjunto de técnicas que se pueden aplicar al contenido y al código de un sitio web, para lograr los primeros lugares en los resultados de los motores de búsqueda.
-  
-    Las **técnicas de SEO** pueden variar dependiendo del tipo de contenido, no tiene sentido aplicar todas las técnicas a un sólo contenido o sitio web, por lo que es importante saber que técnicas aplicar según el contenido/sitio web.
-  
-    Si bien el propósito del SEO es llegar a los primeros resultados de búsqueda, hay un "fin superior" del SEO y es brindarle la mejor experiencia a los usuarios. Esos 2 propósitos están intrínsecamente relacionados, pues si se le proporciona una buena experiencia y contenido a los usuarios se conseguirá como efecto colateral conseguir y conservar las primeras posiciones en los resultados de búsqueda.
-  
-    En resumen, para crear contenido de calidad se necesita:
-  
-    - **Escribir bien:** pensar en quién va a leer el contenido.
-    - **Recursividad y concreción:** procesos y estructuras que funcionan.
-    - **Conocer las técnicas:** optimizar con sentido.
