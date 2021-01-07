@@ -40,7 +40,7 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
   - **Recursividad y concreción:** procesos y estructuras que funcionan.
   - **Conocer las técnicas:** optimizar con sentido.
 
-- ### Glosario de SEO
+- ### Clase 3.  Glosario de SEO
 
   **SEO**: *Search Engine Optimization*.  Optimización para motores de búsqueda. Es un conjunto de técnicas que  puedes aplicar al contenido y al código de tu sitio web, para lograr los primeros lugares en los resultados de los motores de búsqueda.
 
@@ -96,7 +96,7 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   
 
-- ### Checklist de SEO
+- ### Clase 4. Checklist de SEO
 
   Las siguientes son una serie de aspectos que son indispensables para mejorar el posicionamiento independientemente del tipo de contenido.
 
@@ -116,7 +116,7 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
     Construir un website en base a los patrones de diseño responsive recomendados por Google. Esto permite que el sitio web se vea bien sin importar que dispositivo use el usuario.
 
-- ### Presentación del proyecto
+- ### Clase 5. Presentación del proyecto
 
   - #### Release
 
@@ -130,7 +130,7 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
 ## 📚 Módulo 2. Define el objetivo de tu texto
 
-- ### Cómo escribir un primer párrafo
+- ### Clase 6. Cómo escribir un primer párrafo
 
   El primer párrafo de un texto es importante por las siguientes razones:
 
