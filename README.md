@@ -96,4 +96,23 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   
 
-  
+- ### Checklist de SEO
+
+  Las siguientes son una serie de aspectos que son indispensables para mejorar el posicionamiento independientemente del tipo de contenido.
+
+  - #### Frecuencia de publicación
+
+    Definir periodos que se adapten al contenido que se crea. Esto no sólo tiene que ver con cada cuando se crea contenido nuevo sino también con cada cuánto se actualiza el sitio web.
+
+  - #### Relevancia
+
+    ¿El contenido responde a las consultas de los usuarios? Esto viene de mano del **bounce rate**, o sea que el usuario entra al sitio web, no encuentra lo que buscaba y abandona el sitio web a los pocos segundos. El bounce rate reduce la relevancia del sitio web.
+
+  - #### Autoridad
+
+    Este un concepto relacionado con la autoridad de dominio y la autoridad de páginas. Dicha autoridad es otorgada por sitios web externos que tienen links que apuntan a mi sitio web. Mientras más alta sea la autoridad que tiene los sitios web que tienen links apuntando a mi página, más autoridad otorgaran. 
+
+  - #### Responsive Desing
+
+    Construir un website en base a los patrones de diseño responsive recomendados por Google. Esto permite que el sitio web se vea bien sin importar que dispositivo use el usuario.
+
