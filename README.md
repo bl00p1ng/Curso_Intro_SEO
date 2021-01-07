@@ -116,3 +116,41 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
     Construir un website en base a los patrones de diseño responsive recomendados por Google. Esto permite que el sitio web se vea bien sin importar que dispositivo use el usuario.
 
+- ### Presentación del proyecto
+
+  - #### Release
+
+    Página de lanzamiento de un producto. Lo que se aprenda en esta sección también es aplicable a redacción de noticias o artículos de novedades.
+
+  - #### Review
+
+    Reseña de un producto o servicio. También aplica para artículos de opinión.
+
+  - #### Tutorial
+
+## 📚 Módulo 2. Define el objetivo de tu texto
+
+- ### Cómo escribir un primer párrafo
+
+  El primer párrafo de un texto es importante por las siguientes razones:
+
+  - #### Above the fold
+
+    Es lo primero que ve un usuario al entrar a un sitio web antes de hacer scroll. Esta es la primera oportunidad  de enganchar al usuario y hacer que se quede más tiempo, lo cual es muy importante para reducir el bounce rate.
+
+  - #### Descripciones
+
+    Google por defecto toma los primeros 150 caracteres de un artículo como la descripción que muestra en los resultados de búsqueda. Por esta razón ese primer párrafo es importante.
+
+  #### Cómo escribir un buen párrafo
+
+  La mejor forma de escribir un buen párrafo es respondiendo una pregunta o resolviendo un problema. Hay que pensar en cuál es el problema que se quiere resolver a los usuarios y además hay que resolverlo lo más pronto posible en el above the fold, antes de que el usuario haga scroll. Ya habrá tiempo más adelante de dar más contexto o explicaciones en los demás párrafos, pero en el primero hay que ir al grano.
+
+  **🛈 Nota: ** link de un artículo para saber [como optimizar un sitio web para las anwer boxes de Google](https://platzi.com/blog/answer-boxes/)
+
+  
+
+  
+
+  
+
