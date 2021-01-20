@@ -1,4 +1,4 @@
-# El mejor accesorio para tu Gato
+# Accesorio barato para peinar el pelo de un gato
 
 ![Guante peine para Gatos y Perros](https://i.imgur.com/fEpkzhj.jpg)
 
