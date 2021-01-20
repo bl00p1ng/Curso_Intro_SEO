@@ -148,9 +148,21 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   **🛈 Nota: ** link de un artículo para saber [como optimizar un sitio web para las anwer boxes de Google](https://platzi.com/blog/answer-boxes/)
 
-  
+- ### Clase 7.  Cómo escribir buenos títulos
+
+  #### Pasos para escribir un buen título
+
+  1. Reducir el objetivo del texto a 1, 2 o 3 palabras clave
+  2. Dejar a un lado los adjetivos y artículos. Los artículos ya se añadirán más adelante y en el caso de los adjetivos no es muy común que se usen en las búsquedas.
+  3. Pensar en la intención de búsqueda del usuario y el objetivo del artículo
+  4. Plantear preguntas
+  5. No pasarse de 70 caracteres
 
   
 
-  
+
+
+
+
+
 
