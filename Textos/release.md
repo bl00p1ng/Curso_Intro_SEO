@@ -2,7 +2,7 @@
 
 ![Guante peine para Gatos y Perros](https://i.imgur.com/fEpkzhj.jpg)
 
-Con este accesorio puedes dejar de batallar con tu gato para peinarlo y llegar a todos los rincones se su pelaje mientras el sólo quiere jugar con el cepillo.
+Con este accesorio puedes dejar de batallar con tu gato para peinarlo y llegar a todos los rincones de su pelaje mientras el sólo quiere jugar con el cepillo.
 
 Sabemos que tu mascota es muy importante para ti y que siempre buscas consentirla, pero por más que tu quieras a tu mascota es natural que te moleste ver sus pelos por todas partes, en el sofá, en los cojines, en el tapete e incluso en tu ropa. 
 
