@@ -174,6 +174,12 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
   - Ubicar siempre el CTA en el mismo lugar.
   - Utilizar palabras claras y directas sobre lo que se quiere que el usuario haga.
 
+## 📚 Módulo 3. Dale estructura a tu texto
+
+
+
+
+
 
 
 
