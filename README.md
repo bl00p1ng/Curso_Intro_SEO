@@ -160,7 +160,19 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   
 
+- ### Clase 8. Ten un CTA
 
+  Es importante pensar en cuál es el objetivo del contenido en términos prácticos.
+
+  **Conversión:** ocurre cuando un usuario completa una acción deseada.
+
+  **🛈 Nota:** es importante ser directo con el CTA y dejar claro que se quiere que el haga. Además es buena práctica dejar CTAs en textos que se escriben para Internet incluso si son textos informativos.
+
+  #### Buenas prácticas para  CTA
+
+  - Quedarse con **un sólo** objetivo.
+  - Ubicar siempre el CTA en el mismo lugar.
+  - Utilizar palabras claras y directas sobre lo que se quiere que el usuario haga.
 
 
 
