@@ -189,9 +189,19 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
   - Conseguir un amigo editor, alguien que escriba muy bien y tenga buena redacción. Esta persona puede ayudar a revisar los contenidos.
   - Leer mucho.
 
+## 📚 Módulo 4. Técnicas para posicionar tu contenido en Google
 
+- ### Clase 14.  Conceptos clave para hacer un Keyword Research
 
+  [Qué es un Keyword Research](https://platzi.com/blog/que-es-keyword-research/)
 
+  **Keyword:**  es el input que el usuario ingresa en el buscador. **Ejemplo:** "Adopción de gatos en ciudad de México".
+
+  #### Long tail vs Short tail
+
+  ![Long tail vs Short tail](https://i.ibb.co/41xPCFb/longtal-short-tail.jpg)
+
+  
 
 
 
