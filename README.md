@@ -294,4 +294,8 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   [Debugger de OpenGraph](https://developers.facebook.com/tools/debug/sharing/)
 
-  
+- ### Clase 20. Cómo implementar Twitter Cards
+
+  [Documentación](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
+
+  [Validar Twitter Card](https://cards-dev.twitter.com/validator)
