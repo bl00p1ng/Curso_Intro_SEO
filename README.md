@@ -201,7 +201,31 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   ![Long tail vs Short tail](https://i.ibb.co/41xPCFb/longtal-short-tail.jpg)
 
-  
+- ### Clase 15. Cómo hacer un Keyword Research
+
+  Los siguientes son los pasos para hacer un keyword research sencillo y gratuito.
+
+  1. **Lluvia de ideas**
+
+     Se hace un brainstorming en el que se analizan diferentes keywords
+
+  2. **Hacer búsquedas relacionadas para hacer un análisis de la competencia**
+
+     Se hacen búsquedas con los keywords del paso anterior para validarlos y obtener nuevas ideas. Revisar también las búsquedas relacionadas.
+
+     Todas estas keywords ayudar a tener ideas para crear el contenido.
+
+  3. **Revisar las keywords en Google Trends**
+
+     Google Trends muestra en una relación de 1-100 que tantas búsquedas tiene una keyword.
+
+  Hay otras herramientas de paga para hacer esto:
+
+  - Sem Rush
+  - Quora
+  - Netpateil
+  - Buzzumo (Prueba gratis 30 días y no requiere CC)
+  - MOZ
 
 
 
