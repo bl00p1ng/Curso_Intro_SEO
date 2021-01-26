@@ -176,7 +176,18 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
 ## 📚 Módulo 3. Dale estructura a tu texto
 
+- ### Clase 11. Cómo mejorar la ortografía y la redacción
 
+  Escribir con buen ortografía y redacción es importante pues esto repercute en la impresión que se llevan los usuarios con nuestro contenido.
+
+  #### Tips
+
+  - No escribir exactamente como se habla. Hay que ser conciso  evitar muletillas.
+  - No temerle al uso del punto seguido. Usar frases cortas separadas por puntos seguidos.
+  - Leer en voz alta lo que se escribió. A la vez  que se lee se puede editar el contenido para agregar/quitar signos de puntuación, corregir errores ortográficos, etc.
+  - Darle estructura al texto con las diferentes etiquetas HTML.
+  - Conseguir un amigo editor, alguien que escriba muy bien y tenga buena redacción. Esta persona puede ayudar a revisar los contenidos.
+  - Leer mucho.
 
 
 
