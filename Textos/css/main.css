@@ -1,7 +1,8 @@
-/* RELEASE */
-#release .container img {
+.container img {
 	margin-top: 2em;
 	margin-bottom: 2em;
 }
 
-/* RELEASE */
+.container .row .review p:first-child {
+	margin-top: 2em;
+}
