@@ -276,5 +276,15 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
   - Pedirle exactamente lo que se quiere que él/ella haga
   - Que el mensaje no sea ni muy corto ni muy largo.
 
+- ### Clase 18.  Qué son datos estructurados
+
+  [Cómo se visualizan los Datos estructurados en el motor de búsqueda](https://developers.google.com/search/docs/guides/search-gallery)
+
+  Proporcionan más info al motor de búsqueda, cómo por ejemplo calificaciones, imágenes, tiempo de preparación, etc.
+
+  El estándar para esto es [Schema](https://schema.org). Hay diferentes Schemas para diferentes tipos de contenido, por ejemplo articulos, noticias, *HowTo* (para listados de pasos), etc.
+
+  
+
 
 
