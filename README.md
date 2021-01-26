@@ -227,5 +227,13 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
   - Buzzumo (Prueba gratis 30 días y no requiere CC)
   - MOZ
 
+- ### Clase 16.  Link building: Cómo incluir enlaces en nuestro código
+
+  ````html
+  <a href="#" rel"nofollow">...</a> 
+  ````
+
+  Le indique a Google que el link no debe otorgar autoridad al sitio web que esta en el enlace.
+
 
 
