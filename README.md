@@ -282,9 +282,16 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   Proporcionan más info al motor de búsqueda, cómo por ejemplo calificaciones, imágenes, tiempo de preparación, etc.
 
-  El estándar para esto es [Schema](https://schema.org). Hay diferentes Schemas para diferentes tipos de contenido, por ejemplo articulos, noticias, *HowTo* (para listados de pasos), etc.
+  El estándar para esto es [Schema](https://schema.org). Hay diferentes Schemas para diferentes tipos de contenido, por ejemplo artículos, noticias, *HowTo* (para listados de pasos), etc.
 
   [Generador de Datos Estructurados](https://technicalseo.com/tools/schema-markup-generator/)
 
   [Verificar Datos Estrcuturados](https://search.google.com/test/rich-results)
 
+- ### Clase 19. Publicaciones enriquecidas para Facebook
+
+  [Documentación](https://developers.facebook.com/docs/sharing/webmasters#markup)
+
+  [Debugger de OpenGraph](https://developers.facebook.com/tools/debug/sharing/)
+
+  
