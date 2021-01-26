@@ -299,3 +299,9 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
   [Documentación](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 
   [Validar Twitter Card](https://cards-dev.twitter.com/validator)
+
+- ### Resumen del Curso
+
+  ![Infografía SEO](https://i.ibb.co/qW8JrBM/resumen-SEO.png)
+
+  
