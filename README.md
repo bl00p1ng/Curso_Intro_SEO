@@ -235,5 +235,46 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   Le indique a Google que el link no debe otorgar autoridad al sitio web que esta en el enlace.
 
+- ### Clase 17. Cómo hacer una campaña de Link building
+
+  #### Tips
+
+  - **Conectarse con la industria**. Crear relaciones con influenciadores.
+  - **Potenciar el tráfico**. Traer más y mejores usuarios. En esto ayudan incluso los link ``nofollow``.
+  - **Aumentar autoridad**. Convertirse en una fuente confiable.
+
+  #### Cómo hacer una campaña de Link Building
+
+  - Crear contenido de calidad
+
+  - Distribuir el contenido por diversos canales.
+
+  - Buscar y analizar expertos o influenciadores.
+
+    [FollowerWonk](https://followerwonk.com/) → Permite hacer búsquedas en la bio de las cuentas de Twitter.
+
+    [SearchMyBio](https://www.searchmy.bio/) → Lo mismo pero para Instagram.
+
+    Se hace una lista con perfiles que sean interesantes. Revisar dichos perfiles para ver que tipo de contenidos están publicando y en base a eso asignarle a cada perfil un puntaje.
+
+    Dicho puntaje se puede definir en base a preguntas cómo:
+
+    - ¿Este perfil acostumbra a publicar contenido de otras cuentas?
+    - ¿Qué tanto actualizan su sitio web?
+    - ¿Qué tipo de contenidos suelen compartir?
+
+  - Hacer una lista y asignar puntajes.
+
+  - Contactar
+
+  #### Consejos para contactar a un influenciador
+
+  - Háblale como a una persona real, saludando y usando su nombre. Usar un leguaje cálido.
+  - Usar un buen asunto.
+  - Habla sobre ti y sobre él/ella. Mencionar algo especifico sobre su trabajo.
+  - Contar porque el contenido que se quiere que enlace es valioso.
+  - Pedirle exactamente lo que se quiere que él/ella haga
+  - Que el mensaje no sea ni muy corto ni muy largo.
+
 
 
