@@ -284,7 +284,7 @@ Archivos y Código del [Curso de Introducción a SEO: Posicionamiento en Buscado
 
   El estándar para esto es [Schema](https://schema.org). Hay diferentes Schemas para diferentes tipos de contenido, por ejemplo articulos, noticias, *HowTo* (para listados de pasos), etc.
 
-  
+  [Generador de Datos Estructurados](https://technicalseo.com/tools/schema-markup-generator/)
 
-
+  [Verificar Datos Estrcuturados](https://search.google.com/test/rich-results)
 
